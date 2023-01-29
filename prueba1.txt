@@ -1,5 +1,7 @@
 Hola mundo, aprendiendo a manejar git & github
 
 Por Nicolas Plaza
+Ya se envio el primer commit y se va a hacer
+una prueba de correccion
 
 Primer archivo.Prueba1
