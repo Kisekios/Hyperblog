@@ -1,5 +1,5 @@
 # Hyperblog
-Un blog para el curso de git y github de [Platzi] (https://platzi.com/ "Platzi")
+Un blog para el curso de git y github de [Platzi](https://platzi.com/ "Platzi")
 Complete
 >El curso de git y Github de platzi
 
